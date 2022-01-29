@@ -1,2 +1,2 @@
-# note_pyspark
+# PySpark Note
 This is my note about Spark/PySpark
